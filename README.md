@@ -5,4 +5,6 @@ Day 1:- # My Project
 This is a simple HTML project with some basic styling and JavaScript functionality.
 ## Getting Started
 --------------------------------------------------------------------
+Day 2:-
+----------------------------------------------------------------------
 
