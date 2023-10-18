@@ -8,4 +8,7 @@ This is a simple HTML project with some basic styling and JavaScript functionali
 Day 1:-
 ----------------------------------------------------------------------
 create Expanding Cards  | HTML CSS JS |
+-----------------------------------------------------------------------
+Day 2:- create Progress Steps  | HTML CSS JS |
+----------------------------------------------------------------------
 
